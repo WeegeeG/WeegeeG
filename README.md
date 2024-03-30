@@ -1,5 +1,3 @@
 # Luigi is cool
 
-- Trust me.
-
-- :moyai:
+- Not much to see here, it has been made recently!
